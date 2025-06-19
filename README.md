@@ -1,6 +1,3 @@
-Sure! Here's your full README.md content without emojis or emojis in a clean code block:
-
-````markdown
 # Procurement Decision Simulator
 
 An intelligent, data-driven procurement decision support tool that ranks and evaluates vendors using MCDA (Multi-Criteria Decision Analysis). Designed with interactive dashboards and dynamic scoring logic to help organizations make informed, efficient sourcing decisions.
